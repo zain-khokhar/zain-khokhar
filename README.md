@@ -1,4 +1,4 @@
-# 🚀 Zain Khokhar
+#  Zain Khokhar
 ### Full Stack Developer | MERN & Next.js Specialist ⚡
 
 ![Profile Views](https://komarev.com/ghpvc/?username=zainkhokhar&label=Profile%20Views&color=blueviolet&style=flat-square)
