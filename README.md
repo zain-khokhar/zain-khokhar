@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Zain Khokhar
 
-### Full Stack Developer | MERN & Next.js Specialist
+### MERN || Next JS || AI developer
 
 <p align="center">
   <a href="https://mern-portfolio-sigma.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/></a>
