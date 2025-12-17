@@ -80,7 +80,12 @@ I'm a passionate Full Stack Developer specializing in building modern, scalable 
 ### 🎓 LEARN LMS AI
 **Enterprise-Grade Learning Management System with AI-Powered Analytics**
 
-A comprehensive learning management system featuring intelligent course recommendations, real-time progress tracking, and AI-driven content suggestions. Built with Next.js for optimal performance, MongoDB for scalable data management, and integrated AI capabilities to deliver personalized educational experiences. Includes advanced features like course analytics with Chart.js, rich text editing via Tiptap, and secure authentication using JWT.
+A comprehensive learning management system featuring:
+- 🤖 Intelligent course recommendations and AI-driven content suggestions
+- 📊 Real-time progress tracking and course analytics with Chart.js
+- ✍️ Rich text editing via Tiptap for content creation
+- 🔐 Secure authentication using JWT and user management
+- ⚡ Built with Next.js for optimal performance and MongoDB for scalable data management
 
 **Key Technologies:** Next.js · MongoDB · Mongoose · JWT · Chart.js · Tiptap · Redux Toolkit
 
@@ -94,7 +99,12 @@ A comprehensive learning management system featuring intelligent course recommen
 ### 💬 Real-Time Chat Application
 **Scalable Messaging Platform with Live Communication Features**
 
-A feature-rich real-time chat application enabling instant messaging, user presence tracking, and seamless group conversations. Architected with Next.js and Firebase Firestore for real-time database synchronization, enhanced with Pusher Channels for instant message delivery. Implements secure authentication, responsive design with Tailwind CSS, and smooth navigation using React Router and React Scroll.
+A feature-rich real-time chat application featuring:
+- 💬 Instant messaging with Pusher Channels for real-time delivery
+- 👥 User presence tracking and seamless group conversations
+- 🔥 Firebase Firestore integration for real-time database synchronization
+- 🎨 Responsive design with Tailwind CSS for optimal user experience
+- 🚀 Smooth navigation using React Router and React Scroll
 
 **Key Technologies:** Next.js · Firebase · Pusher · Tailwind CSS · React Router · REST APIs
 
