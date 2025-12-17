@@ -18,41 +18,56 @@
 
 ## 💼 About Me
 
-I'm a passionate Full Stack Developer specializing in building modern, scalable web applications using the MERN stack and Next.js. I love creating seamless user experiences and solving complex problems with clean, efficient code.
+I'm a passionate Full Stack Developer specializing in building modern, scalable web applications using the MERN stack and Next.js. With expertise in both frontend and backend technologies, I create seamless user experiences and architect robust solutions using industry-standard tools and best practices.
 
-- 🔭 Currently working on AI-powered learning platforms
-- 🌱 Exploring advanced Next.js patterns and serverless architectures
-- 💡 Open to collaborating on innovative web projects
-- ⚡ Fun fact: I turn coffee into code ☕➡️💻
+### 🎯 Current Focus
+- 🔭 **Working On:** AI-powered learning platforms with advanced analytics and personalization
+- 🌱 **Learning:** Advanced Next.js patterns, serverless architectures, and modern DevOps practices
+- 💡 **Open To:** Collaborating on innovative web projects and open-source contributions
+- 🛠️ **Expertise:** Full-stack development with React, Next.js, Node.js, MongoDB, and modern tooling
+- ⚡ **Fun Fact:** I turn coffee into code ☕➡️💻
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-### Frontend
+### 🚀 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![Tiptap](https://img.shields.io/badge/Tiptap-000000?style=for-the-badge&logo=tiptap&logoColor=white)
 
-### Backend
+### 🔧 Backend Development
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white)
 
-### Database & Authentication
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-
-### Tools & Deployment
+### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Lighthouse](https://img.shields.io/badge/Lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white)
+![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### ⚡ Libraries & APIs
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Nodemailer](https://img.shields.io/badge/Nodemailer-339933?style=for-the-badge&logo=nodemailer&logoColor=white)
+![React Markdown](https://img.shields.io/badge/React_Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chart.js&logoColor=white)
+![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
+![React Scroll](https://img.shields.io/badge/React_Scroll-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 </div>
 
@@ -63,9 +78,11 @@ I'm a passionate Full Stack Developer specializing in building modern, scalable 
 <div align="center">
 
 ### 🎓 LEARN LMS AI
-**An intelligent learning management system with AI-powered features**
+**Enterprise-Grade Learning Management System with AI-Powered Analytics**
 
-Built with Next.js, MongoDB, and modern AI integrations to deliver personalized learning experiences.
+A comprehensive learning management system featuring intelligent course recommendations, real-time progress tracking, and AI-driven content suggestions. Built with Next.js for optimal performance, MongoDB for scalable data management, and integrated AI capabilities to deliver personalized educational experiences. Includes advanced features like course analytics with Chart.js, rich text editing via Tiptap, and secure authentication using JWT.
+
+**Key Technologies:** Next.js · MongoDB · Mongoose · JWT · Chart.js · Tiptap · Redux Toolkit
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://learn-x-lms-ai.vercel.app/)
 [![GitHub](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/zain-khokhar)
@@ -75,9 +92,11 @@ Built with Next.js, MongoDB, and modern AI integrations to deliver personalized 
 ---
 
 ### 💬 Real-Time Chat Application
-**Feature-rich chat app with real-time messaging capabilities**
+**Scalable Messaging Platform with Live Communication Features**
 
-Developed using Next.js, Firebase Firestore, and Pusher Channels for instant communication.
+A feature-rich real-time chat application enabling instant messaging, user presence tracking, and seamless group conversations. Architected with Next.js and Firebase Firestore for real-time database synchronization, enhanced with Pusher Channels for instant message delivery. Implements secure authentication, responsive design with Tailwind CSS, and smooth navigation using React Router and React Scroll.
+
+**Key Technologies:** Next.js · Firebase · Pusher · Tailwind CSS · React Router · REST APIs
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://zain-chat.vercel.app)
 [![GitHub](https://img.shields.io/badge/View-Code-blue?style=for-the-badge&logo=github)](https://github.com/zain-khokhar)
