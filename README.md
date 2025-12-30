@@ -117,23 +117,6 @@ A feature-rich real-time chat application featuring:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zain-khokhar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zain-khokhar&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zain-khokhar&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zain-khokhar&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
